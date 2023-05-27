@@ -7,8 +7,10 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 Extracting all links:
 https://www.techgeekbuzz.com/blog/how-to-extract-all-website-links-in-python/
+
 For tables:
 https://www.projectpro.io/recipes/scrape-table-from-webpage-beautiful-soup#mcetoc_1g8v36ihf8
+
 For specific tables:
 https://stackoverflow.com/questions/2935658/beautifulsoup-get-the-contents-of-a-specific-table
 
