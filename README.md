@@ -4,6 +4,7 @@ Links I found useful:
 
 BeautifulSoup documentation:
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
 Extracting all links:
 https://www.techgeekbuzz.com/blog/how-to-extract-all-website-links-in-python/
 For tables:
