@@ -14,7 +14,7 @@ https://www.projectpro.io/recipes/scrape-table-from-webpage-beautiful-soup#mceto
 For specific tables:
 https://stackoverflow.com/questions/2935658/beautifulsoup-get-the-contents-of-a-specific-table
 
-In general, you have to inspect the website and if you are extracting for certain you can play around
+In general, you have to inspect the website and if you are extracting for certain parts of the website you can play around
 with find_all() method and different parameters, to get your desired results.
 
 I was aiming to obtain all the unique ID's mentioned on the table with their reference links. 
